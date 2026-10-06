@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+
+# IDE
+.idea/
+
+# training artifacts
+*.zip
+*_vecnormalize.pkl
+train_log.txt
